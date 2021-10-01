@@ -4,7 +4,7 @@ class IconGenerate extends StatelessWidget {
   final String image;
   final double radi;
   final double size;
-  IconGenerate({this.image="images/arrow.png",this.radi=80,this.size=50});
+  IconGenerate({this.image="images/arrow.png",this.radi=80,this.size=45});
 
   @override
   Widget build(BuildContext context) {
